@@ -15,6 +15,44 @@
 * 🧠 Passionate about **AI, scalable systems & product building**
 
 ---
+## 🧠 Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,cs,swift,r" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,php,html,css,js" />
+</p>
+
+### 📱 Mobile & Game Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,swift,unity" />
+  <img src="https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -85,8 +123,9 @@
 ## 🧠 Currently Working On
 
 * 📦 System Design & scalable architectures
-* 🤖 Deploying ML models to production
+* 🚀 Building end-to-end products from idea to deployment
 * ⚡ Performance optimization in backend systems
+* 🤖 Building AI-driven applications with real-world impact
 
 ---
 
