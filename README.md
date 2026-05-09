@@ -145,8 +145,13 @@
 
 ## 🐍 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Deepti-tech/Deepti-tech/output/github-contribution-grid-snake-dark.svg" />
+</p> -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepti-tech/Deepti-tech/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/Deepti-tech/Deepti-tech/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
 
 ---
