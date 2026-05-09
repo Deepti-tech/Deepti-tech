@@ -5,18 +5,18 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # ✅ CRITICAL (fixes 403 error)
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write   # ✅ VERY IMPORTANT (fixes exit code 128)
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4   # ✅ updated
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: Deepti-tech
@@ -24,8 +24,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4   # ✅ modern replacement
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
