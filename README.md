@@ -143,13 +143,13 @@
 
 <!-- ===================== SNAKE ===================== -->
 
-<!-- ## 🐍 Contribution Graph -->
+## 🐍 Contribution Graph
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Deepti-tech/Deepti-tech/output/github-contribution-grid-snake.svg" />
-</p> -->
+</p>
 
-<!-- --- -->
+---
 
 <!-- ===================== CURRENT ===================== -->
 
