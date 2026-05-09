@@ -23,10 +23,12 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,cs,swift,r" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Web Development  
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,php,html,css,js" />
+  <br><br>
+  <img src="https://img.shields.io/badge/OJET-orange?style=for-the-badge" />
 </p>
 
 ### 📱 Mobile & Game Development
@@ -52,14 +54,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,swift,r" /><br> <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,php,js,html,css" /><br> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" /><br> <img src="https://skillicons.dev/icons?i=androidstudio,unity" /><br> <img src="https://skillicons.dev/icons?i=tensorflow,opencv" /><br>
-
 </p>
 
 ---
