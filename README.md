@@ -169,11 +169,19 @@
 <!-- ===================== CONTACT ===================== -->
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepti-singh072003/)
-  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:singhdeepti311@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Deepti-tech)
-  </p>
+  <a href="https://www.linkedin.com/in/deepti-singh072003/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:singhdeepti311@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/Deepti-tech">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
 ---
 
 <p align="center">
