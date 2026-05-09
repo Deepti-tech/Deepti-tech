@@ -20,7 +20,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,swift,r" /><br> <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,php,js,html,css" /><br> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" /><br> <img src="https://skillicons.dev/icons?i=androidstudio,xcode,unity" /><br> <img src="https://skillicons.dev/icons?i=tensorflow,opencv" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,swift,r" /><br> <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,php,js,html,css" /><br> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" /><br> <img src="https://skillicons.dev/icons?i=androidstudio,unity" /><br> <img src="https://skillicons.dev/icons?i=tensorflow,opencv" /><br>
 
 </p>
 
@@ -76,7 +76,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepti-tech&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Deepti-tech&show_icons=true&theme=radical&hide_border=true" height="150"/> -->
   <img src="https://streak-stats.demolab.com/?user=Deepti-tech&theme=radical&hide_border=true" height="150"/>
 </p>
 
