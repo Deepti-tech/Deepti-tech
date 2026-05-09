@@ -93,45 +93,51 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Deepti-tech/Intellitutor-FYP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepti-tech&repo=Intellitutor-FYP&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+### 🧠 IntelliTutor
 
-<p align="center">
-  <a href="https://devfolio.co/projects/virtour-1045">
-    <img src="https://img.shields.io/badge/VirTour-Hackathon%20Project-blue?style=for-the-badge" />
-  </a>
-  <a href="https://deepti-tech.github.io/Planetary-speech-to-text/">
-    <img src="https://img.shields.io/badge/Planetary-Live%20Demo-green?style=for-the-badge" />
-  </a>
-</p>
+> AI-powered interview preparation platform
+
+* 🎯 Computer Vision + Speech Recognition
+* 📄 Published in Springer (ICTIS 2024)
+* ⚙️ MERN + OpenCV + Gemini API
+
+🔗 https://github.com/Deepti-tech/Intellitutor-FYP
 
 ---
 
+### 🌍 VirTour (🥉 Hackathon Winner)
+
+> Virtual college exploration platform
+
+* 🗺️ Geo-tagging + Voice assistance
+* 🎥 Virtual campus tours
+
+🔗 https://devfolio.co/projects/virtour-1045
+
+---
+
+### 🪐 Planetary
+
+> Accessible game for visually impaired users
+
+* 🗣️ Speech-based gameplay
+* 🎮 Interactive learning experience
+
+🔗 https://deepti-tech.github.io/Planetary-speech-to-text/
+
+---
 <!-- ===================== STATS ===================== -->
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepti-tech&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Deepti-tech&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> -->
   <img src="https://streak-stats.demolab.com/?user=Deepti-tech&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepti-tech&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-<!-- ===================== TROPHIES ===================== -->
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepti-tech&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+</p> -->
 
 ---
 
