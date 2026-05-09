@@ -1,20 +1,50 @@
-# 💫 Hi, I'm Deepti Singh 👋
+<!-- ===================== HERO ===================== -->
+
+<h1 align="center">Hi 👋, I'm Deepti Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+@+Oracle;Full+Stack+Engineer;AI+%26+Computer+Vision+Enthusiast;Future+MS+CS+Student+@+Stony+Brook&center=true&width=500&height=45">
+  <b>Software Developer @ Oracle | Full-Stack Engineer | AI Enthusiast</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Building+Scalable+Systems;AI+%26+Computer+Vision+Enthusiast;Future+MS+CS+@+Stony+Brook&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-Developer-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-ML-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+<!-- ===================== ABOUT ===================== -->
 
-* 💻 Software Developer @ Oracle
-* 🎓 Incoming MS CS @ Stony Brook University (2026)
-* 🔐 Built secure onboarding systems with multi-layered protection
-* ⚡ Improved platform adoption by **20%**
-* 🧠 Passionate about **AI, scalable systems & product building**
+## 👩‍💻 About Me
+
+💡 I build **secure, scalable, and user-focused applications** across web, mobile, and AI systems.
+
+* 💼 Software Developer at **Oracle**
+* 🔐 Led **secure onboarding system** (managed 3 engineers)
+* 📈 Improved platform adoption by **20%**
+* 🤖 Built AI-driven applications using Computer Vision
+* 🎓 Incoming MS CS @ Stony Brook University
 
 ---
+
+<!-- ===================== IMPACT ===================== -->
+
+## 🚀 Impact
+
+* 🔐 Designed and led a **multi-layer secure onboarding system**
+* ⚡ Optimized payment flows → improved performance & UX
+* 🌐 Solved critical **network/proxy issue → restored 100% connectivity**
+* 📈 Increased feature adoption by **20%**
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
 ## 🧠 Tech Stack
 
 ### 💻 Languages
@@ -23,17 +53,19 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,cs,swift,r" />
 </p>
 
-### 🌐 Web Development  
+### 🌐 Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,php,html,css,js" />
-  <img src="https://img.shields.io/badge/OJET-orange?style=for-the-badge" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Oracle%20JET-OJET-orange?style=for-the-badge" />
 </p>
 
 ### 📱 Mobile & Game Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,swift,unity" />
+  <br><br>
   <img src="https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode&logoColor=white" />
 </p>
 
@@ -49,7 +81,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 </p>
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -57,77 +89,73 @@
 
 ---
 
-## 💼 Experience
-
-### 🏢 Oracle — Software Developer
-
-* Built and maintained **Android & iOS banking applications**
-* Led a **secure onboarding module** (managed 3 engineers)
-* Optimized digital payment flows ⚡
-* Solved critical **network/proxy issue** → restored 100% connectivity
-
----
+<!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
-### 🧠 IntelliTutor
-
-> AI-powered interview preparation platform
-
-* 🎯 Computer Vision + Speech Recognition
-* 📄 Published in Springer (ICTIS 2024)
-* ⚙️ MERN + OpenCV + Gemini API
-
-🔗 https://github.com/Deepti-tech/Intellitutor-FYP
-
----
-
-### 🌍 VirTour (🥉 Hackathon Winner)
-
-> Virtual college exploration platform
-
-* 🗺️ Geo-tagging + Voice assistance
-* 🎥 Virtual campus tours
-
-🔗 https://devfolio.co/projects/virtour-1045
-
----
-
-### 🪐 Planetary
-
-> Accessible game for visually impaired users
-
-* 🗣️ Speech-based gameplay
-* 🎮 Interactive learning experience
-
-🔗 https://deepti-tech.github.io/Planetary-speech-to-text/
-
----
-
-## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Deepti-tech/Intellitutor-FYP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepti-tech&repo=Intellitutor-FYP&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Deepti-tech&show_icons=true&theme=radical&hide_border=true" height="150"/> -->
-  <img src="https://streak-stats.demolab.com/?user=Deepti-tech&theme=radical&hide_border=true" height="150"/>
+  <a href="https://devfolio.co/projects/virtour-1045">
+    <img src="https://img.shields.io/badge/VirTour-Hackathon%20Project-blue?style=for-the-badge" />
+  </a>
+  <a href="https://deepti-tech.github.io/Planetary-speech-to-text/">
+    <img src="https://img.shields.io/badge/Planetary-Live%20Demo-green?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-## 🧠 Currently Working On
+<!-- ===================== STATS ===================== -->
 
-* 📦 System Design & scalable architectures
-* 🚀 Building end-to-end products from idea to deployment
-* ⚡ Performance optimization in backend systems
-* 🤖 Building AI-driven applications with real-world impact
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepti-tech&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Deepti-tech&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepti-tech&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
+
+<!-- ===================== TROPHIES ===================== -->
 
 ## 🏆 Achievements
 
-* 🥉 3rd Place — Bit n Build Hackathon
-* 📄 Research Paper Published (Springer)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepti-tech&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
+
+<!-- ===================== SNAKE ===================== -->
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepti-tech/Deepti-tech/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- ===================== CURRENT ===================== -->
+
+## 🎯 Current Focus
+
+* 🧩 System Design & scalable architectures
+* ⚡ Building high-performance backend systems
+* 🧠 Applying AI to real-world problems
+
+---
+
+<!-- ===================== CONTACT ===================== -->
 
 ## 🌐 Connect With Me
 
@@ -145,12 +173,6 @@
 
 ---
 
-## ⚡ Fun Fact
-
-> I love building products that combine **AI + real-world usability** 🚀
-
----
-
 <p align="center">
-  ⭐️ *“Code. Build. Scale. Repeat.”*
+  ⭐️ <i>“I build systems, not just code.”</i>
 </p>
