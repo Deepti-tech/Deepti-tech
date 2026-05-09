@@ -1,70 +1,124 @@
-# Hi, I'm Deepti Singh 👋
+# 💫 Hi, I'm Deepti Singh 👋
 
-💻 Software Developer @ Oracle  
-🎓 Incoming MS CS @ Stony Brook University  
-🚀 Passionate about building scalable applications, AI solutions, and seamless user experiences  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+@+Oracle;Full+Stack+Engineer;AI+%26+Computer+Vision+Enthusiast;Future+MS+CS+Student+@+Stony+Brook&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🔧 Tech Stack
+## 🚀 About Me
 
-**Languages:**  
-C, C++, Java, Python, C#, Swift, R  
+* 💻 Software Developer @ Oracle
+* 🎓 Incoming MS CS @ Stony Brook University (2026)
+* 🔐 Built secure onboarding systems with multi-layered protection
+* ⚡ Improved platform adoption by **20%**
+* 🧠 Passionate about **AI, scalable systems & product building**
 
-**Web & Backend:**  
-React.js, Node.js, Express.js, Flask, OJET, PHP  
+---
 
-**Mobile & Game Dev:**  
-Android (Java), iOS (Swift), Unity (C#)  
+## 🛠️ Tech Stack
 
-**Databases & Cloud:**  
-MySQL, MongoDB, Firebase, AWS  
+<p align="center">
 
-**AI/ML:**  
-TensorFlow, OpenCV, Computer Vision  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,swift,r" /><br> <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,php,js,html,css" /><br> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" /><br> <img src="https://skillicons.dev/icons?i=androidstudio,xcode,unity" /><br> <img src="https://skillicons.dev/icons?i=tensorflow,opencv" /><br>
+
+</p>
 
 ---
 
 ## 💼 Experience
 
-- 🏢 Software Developer at Oracle  
-  - Built secure banking applications (Android & iOS)  
-  - Led onboarding module with multi-layered security  
-  - Improved performance & user adoption by 20%  
+### 🏢 Oracle — Software Developer
+
+* Built and maintained **Android & iOS banking applications**
+* Led a **secure onboarding module** (managed 3 engineers)
+* Optimized digital payment flows ⚡
+* Solved critical **network/proxy issue** → restored 100% connectivity
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 IntelliTutor  
-AI-based interview preparation platform  
-- ML + Speech Recognition + Computer Vision  
-- Published research paper (ICTIS 2024)
+### 🧠 IntelliTutor
 
-### 🔹 Planetary  
-Accessible game for visually impaired users  
-- Speech-based interaction  
-- Built using JS + APIs  
+> AI-powered interview preparation platform
 
-### 🔹 VirTour  
-Virtual college exploration platform (Hackathon Winner 🏆)  
+* 🎯 Computer Vision + Speech Recognition
+* 📄 Published in Springer (ICTIS 2024)
+* ⚙️ MERN + OpenCV + Gemini API
+
+🔗 https://github.com/Deepti-tech/Intellitutor-FYP
+
+---
+
+### 🌍 VirTour (🥉 Hackathon Winner)
+
+> Virtual college exploration platform
+
+* 🗺️ Geo-tagging + Voice assistance
+* 🎥 Virtual campus tours
+
+🔗 https://devfolio.co/projects/virtour-1045
+
+---
+
+### 🪐 Planetary
+
+> Accessible game for visually impaired users
+
+* 🗣️ Speech-based gameplay
+* 🎮 Interactive learning experience
+
+🔗 https://deepti-tech.github.io/Planetary-speech-to-text/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepti-tech&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Deepti-tech&theme=radical&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🧠 Currently Working On
+
+* 📦 System Design & scalable architectures
+* 🤖 Deploying ML models to production
+* ⚡ Performance optimization in backend systems
 
 ---
 
 ## 🏆 Achievements
 
-- 🥉 3rd place - Bit n Build Hackathon  
-- 📄 Research Paper Published (Springer)  
+* 🥉 3rd Place — Bit n Build Hackathon
+* 📄 Research Paper Published (Springer)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/deepti-singh072003/
-- 💻 GitHub: https://github.com/Deepti-tech
-- 📧 Email: singhdeepti311@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepti-singh072003/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:singhdeepti311@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/Deepti-tech">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-⭐️ *Always building, always learning.*
+## ⚡ Fun Fact
 
+> I love building products that combine **AI + real-world usability** 🚀
+
+---
+
+<p align="center">
+  ⭐️ *“Code. Build. Scale. Repeat.”*
+</p>
