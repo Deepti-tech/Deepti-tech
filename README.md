@@ -28,7 +28,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,php,html,css,js" />
   <img src="https://img.shields.io/badge/OJET-orange?style=for-the-badge" />
-  <br><br>
 </p>
 
 ### 📱 Mobile & Game Development
