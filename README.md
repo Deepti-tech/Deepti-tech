@@ -28,7 +28,7 @@
 * 🔐 Led **secure onboarding system** (managed 3 engineers)
 * 📈 Improved platform adoption by **20%**
 * 🤖 Built AI-driven applications using Computer Vision
-* 🎓 Incoming MS CS @ Stony Brook University
+* 🎓 Incoming MS CS Student @ Stony Brook University
 
 ---
 
