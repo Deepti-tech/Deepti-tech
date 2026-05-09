@@ -68,4 +68,3 @@ Virtual college exploration platform (Hackathon Winner 🏆)
 
 ⭐️ *Always building, always learning.*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepti-tech&show_icons=true)
