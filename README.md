@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Building+Scalable+Systems;AI+%26+Computer+Vision+Enthusiast;Future+MS+CS+Student+@+Stony+Brook&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Building+Scalable+Systems;AI+%26+Computer+Vision+Enthusiast&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -28,7 +28,6 @@
 * 🔐 Led **secure onboarding system** (managed 3 engineers)
 * 📈 Improved platform adoption by **20%**
 * 🤖 Built AI-driven applications using Computer Vision
-* 🎓 Incoming MS CS Student @ Stony Brook University
 
 ---
 
