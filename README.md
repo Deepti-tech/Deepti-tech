@@ -127,12 +127,12 @@
 ---
 <!-- ===================== STATS ===================== -->
 
-## 📊 GitHub Insights
+<!-- ## 📊 GitHub Insights -->
 
-<p align="center">
+<!-- <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Deepti-tech&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> -->
   <img src="https://streak-stats.demolab.com/?user=Deepti-tech&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepti-tech&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
